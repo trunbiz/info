@@ -6,6 +6,18 @@
   <component name="ChangeListManager">
     <list default="true" id="c37408d5-401c-4993-be46-eb0ba4e0f691" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/avatar.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/avatar.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/favicon.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/favicon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/portfolio-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/portfolio-1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/portfolio-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/portfolio-2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/portfolio-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/portfolio-3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/portfolio-4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/portfolio-4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/portfolio-5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/portfolio-5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/portfolio-6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/portfolio-6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/portfolio-7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/portfolio-7.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/portfolio-8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/portfolio-8.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/portfolio-9.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/portfolio-9.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -73,6 +85,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
@@ -119,7 +134,8 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/OpenServer/domains/info",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/OpenServer/domains/info/assets/img/portfolio",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -129,6 +145,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\OpenServer\domains\info\assets\img\portfolio" />
       <recent name="C:\OpenServer\domains\info\assets\img" />
     </key>
   </component>
@@ -146,6 +163,7 @@
       <workItem from="1681485276541" duration="4066000" />
       <workItem from="1681563917844" duration="119000" />
       <workItem from="1685294053726" duration="1508000" />
+      <workItem from="1772470254444" duration="4427000" />
     </task>
     <servers />
   </component>
@@ -178,9 +196,6 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/assets/img/profile-img.jpg" />

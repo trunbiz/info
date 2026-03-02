@@ -259,4 +259,30 @@
    */
   new PureCounter();
 
+
+  (function () {
+    const BIRTHDAY = "1998-10-09";      // đổi nếu cần
+    const WORK_START = "2019-01-01";    // ngày bắt đầu đi làm
+
+    function fullYearsSince(dateStr, asOf = new Date()) {
+      const start = new Date(dateStr + "T00:00:00");
+      let years = asOf.getFullYear() - start.getFullYear();
+      const m = asOf.getMonth() - start.getMonth();
+      if (m < 0 || (m === 0 && asOf.getDate() < start.getDate())) years--;
+      return Math.max(0, years);
+    }
+
+    const age = fullYearsSince(BIRTHDAY);
+    const expYears = fullYearsSince(WORK_START);
+
+    // Update Age
+    const ageEls = document.getElementsByClassName("js-age");
+    for (let i = 0; i < ageEls.length; i++) ageEls[i].textContent = age;
+
+    // Update Experience years
+    const expEls = document.getElementsByClassName("js-exp-years");
+    for (let i = 0; i < expEls.length; i++) expEls[i].textContent = expYears; // hoặc `${expYears}+`
+  })();
+  var el = document.getElementById('js-year');
+  if (el) el.textContent = new Date().getFullYear();
 })()
