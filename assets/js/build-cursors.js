@@ -2,7 +2,7 @@
 (() => {
  const root=document.documentElement;
  const toggle=document.getElementById('builder-toggle');
- const targets=[...document.querySelectorAll('.hero-copy h1,.hero-copy h2,.hero-copy .intro,.hero-visual .portrait,.hero-visual .code-note,.section-heading,.story,.about-details>.panel,.education,.job,.work-card,.service,.process,.contact-section h2,.contact-section .email')];
+ const targets=[...document.querySelectorAll('.hero-copy h1,.hero-copy h2,.hero-copy .intro,.hero-visual .portrait,.hero-visual .code-note,.section-heading,.ai-practice-heading,.ai-practice-grid .panel,.story,.about-details>.panel,.education,.job,.work-card,.service,.process,.contact-section h2,.contact-section .email')];
  targets.forEach(el=>el.classList.add('build-target'));
  const colors=['#8057e4','#ed8759','#329d98'];
  const names=['Louis','Design','Content'];

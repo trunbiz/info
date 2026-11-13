@@ -9,3 +9,12 @@ Ngày nghiên cứu: 13/11/2026.
 - Video mp4 người dùng cung cấp: tham khảo nền tối, điểm nhấn xanh, thẻ nội dung, timeline và phần kết nối.
 
 Không dùng số khách hàng, doanh thu, giải thưởng hoặc testimonial chưa xác thực. Các giao diện dự án là sơ đồ CSS minh họa, không phải ảnh chụp sản phẩm hoặc số liệu kết quả. Website chạy tĩnh, liên hệ qua mailto và các hồ sơ công khai; không có biểu mẫu giả lập gửi thành công.
+
+## Bổ sung dự án cá nhân — 14/11/2026
+
+Chủ sở hữu xác nhận cả bốn website là dự án AI cá nhân của mình.
+- https://maxmorus.com/: mô tả AI tìm lead Facebook Group, phân tích nhu cầu, xếp hạng và quy trình tiếp cận từ trang sản phẩm.
+- https://muarehon.com/: mô tả nền tảng cashback/affiliate và công cụ gợi ý sản phẩm bằng AI từ trang chủ. Không lấy số liệu doanh thu hoặc lời chứng thực.
+- https://holoviral.com/: mô tả website nội dung công nghệ, giải trí từ trang chủ. Không suy đoán cơ chế AI hoặc tự động xuất bản.
+- https://aitoolhub101.com/: công cụ web không truy cập được và tìm kiếm site không có kết quả; mô tả chung theo xác nhận của chủ sở hữu, không thêm tính năng hay công nghệ chưa kiểm chứng.
+Các thẻ dự án dùng minh họa HTML/CSS, có nút truy cập website và hộp chi tiết. Tổng cộng 8 thẻ, trong đó 4 dự án cá nhân, lọc bằng nút AI cá nhân.
